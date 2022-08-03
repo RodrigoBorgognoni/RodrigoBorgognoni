@@ -14,6 +14,9 @@ Tecnologies & Programming Languages:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=35px width=35px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height=35px width=35px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=35px width=35px />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=35px width=35px/>
+          
+
 How to reach me:
 
 <a href="mailto:rodrigoborgognoni@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height=25px width=25px target="_blank"></a> <a href="https://www.linkedin.com/in/rodrigo-borgognoni/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height=25px width=25px target="_blank"></a>
