@@ -2,7 +2,7 @@
 ### I'm: 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=25px width=25px /> Currently working as a .Net Developer (freelancer).
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=25px width=25px /> Currently working as an independent .Net Developer.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=25px width=25px /> Studying Python and Xamarin-Forms.
 
