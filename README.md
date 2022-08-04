@@ -22,8 +22,8 @@
 <a href="mailto:rodrigoborgognoni@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height=25px width=25px target="_blank"></a> <a href="https://www.linkedin.com/in/rodrigo-borgognoni/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height=25px width=25px target="_blank"></a>
 
 <div align="center">
-<img width="450em" src="https://github-readme-stats.vercel.app/api?username=RodrigoBorgognoni&show_icons=true&theme=vision-friendly-dark"/>
-<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBorgognoni&layout=compact&theme=vision-friendly-dark" alt="WaKCHaKal's most languages"/>
+<img width="160em" src="https://github-readme-stats.vercel.app/api?username=RodrigoBorgognoni&show_icons=true&theme=vision-friendly-dark"/>
+<img width="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBorgognoni&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
 <div align="center">
