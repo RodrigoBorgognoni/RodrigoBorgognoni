@@ -23,7 +23,7 @@ How to reach me:
 
 <div align="center">
 <img width="450em" src="https://github-readme-stats.vercel.app/api?username=RodrigoBorgognoni&show_icons=true&theme=vision-friendly-dark"/>
-<img width="540em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBorgognoni&layout=compact&theme=vision-friendly-dark" alt="WaKCHaKal's most languages"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBorgognoni&layout=compact&theme=vision-friendly-dark" alt="WaKCHaKal's most languages"/>
 </div>
 
 <div align="left">
