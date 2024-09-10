@@ -4,7 +4,7 @@
 
 Currently working as a SalesForce CommerceCloud B2C Admin.
 
-Studying JavaScript, SCSS and ISML.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=35px width=35px /> Studying JavaScript, SCSS and ISML.
 
 ### Tecnologies & Programming Languages:
 
