@@ -2,7 +2,7 @@
 ### I'm: 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-Currently working as a SalesForce CommerceCloud B2C Admin.
+Currently working as a SalesForce CommerceCloud B2C Specialist.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=35px width=35px /> Studying JavaScript, SCSS and ISML.
 
