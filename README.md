@@ -18,11 +18,6 @@ Currently working as a SalesForce CommerceCloud B2C Specialist.
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RodrigoBorgognoni&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=RodrigoBorgognoni&color=blue&style=flat)
- </div>
           
 <!--
 **RodrigoBorgognoni/RodrigoBorgognoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
