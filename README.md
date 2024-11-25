@@ -1,7 +1,7 @@
 # Hello there!
 ### I'm Rodrigo: 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-A Salesforce Commerce Cloud Specialist.
+A Salesforce Commerce Cloud Specialist and Back-End Developer.
 
 ##
 
